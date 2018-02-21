@@ -1,3 +1,7 @@
+# Purpose
+
+This app serves as a demo node application to be built and deployed by Travis to EC2
+
 # Node Todo App
 
 A Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.
