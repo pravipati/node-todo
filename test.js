@@ -1,1 +1,1 @@
-console.log("The test worked")
+console.log("The test worked, yay")
